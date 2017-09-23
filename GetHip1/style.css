@@ -1,0 +1,11 @@
+body {
+    padding-bottom: 40px;
+    color: #5A5A5A;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+  }
+/* This colors all of the text */
+h1,h2,h3,h4 {
+    font-family: 'Zilla Slab', sans-serif;
+}
+/* This changes the font of the headers. sans-serfif is blocky, serif is pointed */
