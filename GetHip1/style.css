@@ -1,11 +1,39 @@
 body {
-    padding-bottom: 40px;
-    color: #5A5A5A;
-    text-align: left;
-    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
+    margin: 0;
   }
-/* This colors all of the text */
-h1,h2,h3,h4 {
-    font-family: 'Zilla Slab', sans-serif;
+
+/*the following is directly copy pasted from Melanie's gethipweek1 */
+
+h1 {
+    color: #61c250;
 }
-/* This changes the font of the headers. sans-serfif is blocky, serif is pointed */
+.headerBanner {
+    background-color: #333;
+    width: 100%;
+    padding: 20px 0px 20px 40px;
+}
+p {
+    font-size: 24px;
+}
+.paragraphBanner {
+    background-color: #ccc;
+    width: 100%;
+    padding: 20px 0px 20px 40px;
+}
+.content {
+    margin: 20px 0px 20px 40px;
+    font-size: 20px;
+}
+a {
+    color: #61c250;
+    text-decoration: none;
+}
+img {
+    width: 300px;
+}
+.decorated {
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
