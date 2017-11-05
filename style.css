@@ -33,8 +33,10 @@ a {
     text-decoration: none;
 }
 img {
-    width: 300px;
-}
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 .decorated {
     text-decoration: underline;
     font-weight: bold;
